@@ -1,0 +1,4 @@
+
+AI Based Table Tennis Championship Fixtures Creator
+
+This project generates dynamic fixtures for singles, doubles, and team events in a table tennis tournament. It includes visualization, export features, and supports deployment via Streamlit.
